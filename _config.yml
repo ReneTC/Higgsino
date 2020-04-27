@@ -1,3 +1,14 @@
 theme: jekyll-theme-cayman
-title: Higgsino Physics 
-description: [A short description of your site's purpose]
+title: Higgsino Physics
+description: Let's explore the mechanics of nature
+nav:
+  - title: Deployment
+    url: deployment.html
+    subnav:
+      - title: Heroku
+        url: heroku.html
+        subnav:
+          - title: Jekyll on Heroku
+            url: jekyll-on-heroku.html
+  - title: Help
+    url: help.html
