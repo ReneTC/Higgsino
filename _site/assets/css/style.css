@@ -266,7 +266,7 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
   .btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
-.page-header { color: #fff; text-align: center; background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); }
+.page-header { color: #fff; text-align: center; background-color: #fff; background-image: linear-gradient(120deg, #fff, #fff); }
 @media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
 @media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
@@ -317,3 +317,11 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+.page-header { color: #ffff !important; background: url("/assets/coverbig.jpg") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #131313 !important; font-weight: bold; }
+
+.project-name { text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3); }
+
+.project-tagline { text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3); }
