@@ -7,7 +7,7 @@ $header-bg-color-secondary: #fff;
 @import "{{ site.theme }}";
 .page-header {
   color: #ffff !important;
-  background: url('https://raw.githubusercontent.com/ReneTC/Higgsino/master/assets/coverbig.JPG') no-repeat center center fixed;
+  background: url('../coverbig.JPG') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
