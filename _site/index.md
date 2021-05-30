@@ -2,8 +2,6 @@
 More on the way!
 
 # About Higgsino Collectible Clips (NFT's)
-A video/article consisnts of many individual clips. These clips, will be avaliable to collect as an NFT. Think of them, as a limited supply of trading cards.
-
-See them here
+A video/article consists of many individual clips. These clips will be available to collect as an NFT. Kind of like a limited digital supply of trading cards.
 
 Supply of 100 per clip. 5% on re-sale.
