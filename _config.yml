@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Higgsino Physics
 description: Simple animated explanations of fun physics!
+collections:
+  nfts:
