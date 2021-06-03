@@ -6,4 +6,5 @@ description2: How a superconductor works. Everything from the physics and some o
 keywords: superconductor,physics,Liqiud helium,Critical temperature,Electrical resistance. cooper pairs,Bosons,Hover trains,Type 1,Type 2,Field lines,fermions,Meissner effect,physics lecture,theory,cooper pair,levitating trains,levitating,super conductor,electrical resistance,zero electrical resistance,quantum physics,superconductors,explained
 Category: Superconductivity
 thumbnail: 4
+video_url: h6FYs_AUCsQ
 ---

@@ -6,4 +6,5 @@ description2: Why does light bend when it enters glass? and how mirages happen. 
 keywords: Huygens principle,refraction bend,why light bends,mirages,inferior mirage,waves,laser,bend,secondary waves,wavelets,animation,physics,how,mirage,refraction,light,huygens,principle,huygens principle of refraction,physics lecture,refraction of light on base of huygens principle,huygens rule,huygens principle,science,education,huygens wave theory,huygens fresnel principle
 Category: refraction
 thumbnail: 11
+video_url: A8lU2nkX9pc
 ---

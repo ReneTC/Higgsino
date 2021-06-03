@@ -6,4 +6,5 @@ description2: The speed of light and black holes. What happens when at the speed
 keywords: special relativity,speed of light,black hole,physics,lecture,physics lecture,albert einstein,light,time,relativity theory,relativity,animation,science,higgsino physics,spacetime,warp,interstellar,space,explanation,black holes,special relativity explained,special relativity equations,time dilation
 Category: Lightspeed
 thumbnail: 6
+video_url: 04eS_fjGSzA
 ---

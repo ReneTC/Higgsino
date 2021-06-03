@@ -6,4 +6,5 @@ description2: This is how a dipping bird toy/ drinking bird  dunking bird works 
 keywords: Drinking bird,explained,how,dipping bird,thermodynamics,evaporative cooling,physics,bird,drinking,water,science,animation,physics lecture,dunking bird,drinking bird toy,bobbing bird,bird drinking water toy,rocking bird,drinking bird explained,drinking bird,toy
 Category: drinkingBird
 thumbnail: 10
+video_url: DOTt3vkg8vk
 ---

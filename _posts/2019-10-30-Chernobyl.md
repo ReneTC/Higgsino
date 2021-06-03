@@ -6,4 +6,5 @@ description2: Radiation and fallout in Hiroshima vs in the Chernobyl accident. .
 keywords: Chernobyl,Hiroshima,radioactivity,fallout,uranium,atom,nuclues,fission,gamma,beta,alpha,decay
 Category: Chernobyl
 thumbnail: 1
+video_url: Ad3iNfmqj1c
 ---

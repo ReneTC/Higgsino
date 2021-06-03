@@ -6,4 +6,5 @@ description2: How does the hot chocolate effect work? The weird pitch frequency 
 keywords: physics,chocolate effect,animation,explained,why,how,frequency,wave propagation,hot chocolate effect,temperature,hot chocolate,physics lecture,aniamted,the hot chocolate effect,coffee sound,coffee instant,sound,hot,chocolate,science
 Category: chocolate
 thumbnail: 13
+video_url: ywwfi-6ZZq4
 ---
