@@ -1,6 +1,3 @@
-# Site under construction
-More on the way!
-
 # About Higgsino Collectible Clips (NFT's)
 A video/article consists of many individual clips. These clips will be available to collect as an NFT.
 
