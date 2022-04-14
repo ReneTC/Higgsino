@@ -7,4 +7,5 @@ keywords: Huygens principle,refraction bend,why light bends,mirages,inferior mir
 Category: refraction
 thumbnail: 11
 video_url: A8lU2nkX9pc
+categories: video
 ---

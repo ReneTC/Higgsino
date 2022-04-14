@@ -318,7 +318,7 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-.page-header { color: #ffff !important; background: url("../coverbig.JPG") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
+.page-header { color: #ffff !important; background: #00034f; background: linear-gradient(61deg, #00034f 0%, #6f2e9a 100%); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #131313 !important; font-weight: bold; }
 

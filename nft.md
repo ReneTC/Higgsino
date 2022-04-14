@@ -5,7 +5,7 @@ Supply of 100 per clip. 5% on re-sale.
 
 [Browse NFTs here.](https://opensea.io/assets/higgsino)
 
-Why should you buy Higgsino Collectible Clips? If you want to support the cause. The aim for is to contunie the project without sponsors or ads. Making "Collectible Clips" as NFT's further motivates to create even better animations.
+Why should you buy Higgsino Collectible Clips? If you want to support the cause. The aim for is to continue the project without sponsors or ads. Making "Collectible Clips" as NFT's further motivates to create even better animations.
 
 
 # Available NFTS

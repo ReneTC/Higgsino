@@ -7,4 +7,5 @@ keywords: gauss law,vector field,divergence,electric field,gaussian surface,math
 Category: divergence
 thumbnail: 20
 video_url: BGfyQdzfP3s
+categories: video
 ---

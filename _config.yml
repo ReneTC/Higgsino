@@ -3,4 +3,8 @@ title: Higgsino Physics
 description: Simple animated explanations of fun physics!
 google_analytics: G-DT901SRLT6
 collections:
-  nfts:
+    nfts:
+        output: true
+    articles:
+        output: true
+permalink: /:categories/:title/

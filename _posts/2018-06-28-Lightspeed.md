@@ -7,4 +7,5 @@ keywords: special relativity,speed of light,black hole,physics,lecture,physics l
 Category: Lightspeed
 thumbnail: 6
 video_url: 04eS_fjGSzA
+categories: video
 ---

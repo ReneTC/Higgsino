@@ -7,4 +7,5 @@ keywords: Drinking bird,explained,how,dipping bird,thermodynamics,evaporative co
 Category: drinkingBird
 thumbnail: 10
 video_url: DOTt3vkg8vk
+categories: video
 ---

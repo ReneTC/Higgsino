@@ -3,3 +3,5 @@ main:
   url: index.html
 - title: NFT
   url: nft.html
+- title: Videos
+  url: videos.html

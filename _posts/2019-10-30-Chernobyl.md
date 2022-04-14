@@ -7,4 +7,5 @@ keywords: Chernobyl,Hiroshima,radioactivity,fallout,uranium,atom,nuclues,fission
 Category: Chernobyl
 thumbnail: 1
 video_url: Ad3iNfmqj1c
+categories: video
 ---

@@ -7,4 +7,5 @@ keywords: kinetic bombardment,kinetic strike,orbital kinetic bombardment,physics
 Category: kineticstrike
 thumbnail: 21
 video_url: lo6VSRRT5Ew
+categories: video
 ---
