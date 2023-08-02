@@ -1,9 +1,8 @@
 ---
 layout: article
-title: The Physics of superconductors
+title: The physics of superconductivity
 ---
 
-# The physics of superconductivity
 *This article was brought to you by [generous Patreon Supporters](https://www.patreon.com/Higgsino).*
 
 Superconductivity; an extremely cool but unexpected
