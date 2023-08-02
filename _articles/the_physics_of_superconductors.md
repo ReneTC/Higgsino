@@ -16,8 +16,6 @@ phenomenon used for:
 
 <img src="intro.png"/>
 
-<img src="atom.gif"/>
-
 In this article I will tell you the Physics behind it and a little bit of the history as well.
 
 **Don't like reading? Watch the video [here](https://www.youtube.com/watch?v=h6FYs_AUCsQ) instead**
