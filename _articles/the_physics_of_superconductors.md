@@ -25,7 +25,7 @@ In this article I will tell you the Physics behind it and a little bit of the hi
 
 ## Temperature scales
 Superconductivity was discovered in 1911 By Heike Kamerlingh Onnes. At the time, it was just made possible to liquefy Helium which produces extremely cold temperatures.
-<img src='discovery.gif'>
+<img src='discovery.gif'/>
 
 In the image below we have a Celsius scale. At zero, of course, water freezes. At 100 degrees Celsius water boils. At negative 273 degrees Celsius we have the absolute zero, and a little warmer is the liquid helium, but it is still extremely cold. To put things into perspective, liquid nitrogen is plotted as well. It's negative 195 degrees Celsius.
 <img src='temperature_scale.gif'>
