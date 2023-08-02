@@ -14,7 +14,9 @@ phenomenon used for:
 
 .. and it might just one day completely revolutionize  how we transport energy.
 
-<img src="intro.png">
+<img src="intro.png"/>
+
+<img src="atom.gif"/>
 
 In this article I will tell you the Physics behind it and a little bit of the history as well.
 
