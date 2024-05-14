@@ -3,7 +3,7 @@ layout: article
 title: Why the critical mass is not about mass
 ---
 
-## Into
+## Intro
 The concept of the critical mass in nuclear physics, is to determine whether you have a stable configuration or an exponentially increasing power source. 
 
 Some scientist were hard at work in order to release the exponential power in the trinity test - the first atomic device, while others were hard at work in the Chernobyl accident to try and stop exponential power. 
