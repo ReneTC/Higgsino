@@ -24,21 +24,21 @@ Let's understand induced fission, learning with Uranium-235 as a concrete exampl
 
 Uranium-235 has the special property it can undergo indeed fission. When this fissionable material, is hit by a free neutron, the uranium unstable and will split into two smaller daughter nuclei, Krypton and Barium and also 3 new secondary free neutrons. While releasing a great amount of energy in the process.
 
-<p align="center"><img src="1_uranium_fission2.webp" alt="" data-echo="1_uranium_fission2.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="1_uranium_fission2.webp"></p>
 
 
 These 3 new free neutrons can strike other uranium-235 nuclei, multiplying exponentially creating a nuclear chain reaction and releasing an insane amount of energy. One neutron becomes tree neutrons, becomes nine neutrons becomes 27... after 51 generations we will have 2 million * billion * billion neutrons-uranium interactions or one kg of uranium will have been split. Enough to wipe out a big city.  
  
-<p align="center"><img src="duplicator_line.webp" alt="" data-echo="duplicator_line.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="duplicator_line.webp"></p>
 
 
 However, it is also possible for the secondary neutrons released to just escape the uranium material without hitting any new nuclei. 
 
-<p align="center"><img src="1_uranium_fission2_no_fission_no_intro.webp" alt="" data-echo="1_uranium_fission2_no_fission_no_intro.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="1_uranium_fission2_no_fission_no_intro.webp"></p>
 
 This chance of escaping depends on how much material we have - if we have too little mass, the neutrons released in the material boundary will have a high probability of escaping, we will therefore need a minimum amount of mass to get the chain reaction started, this is the concept of the critical mass.
 
-<p align="center"><img src="/img/loading.gif" alt="" data-echo="ball.png"></p>
+<p align="center"><img src="/img/loading.gifoading.gif" alt="" data-echo="ball.png"></p>
 
 But we can do a lot of things to influence how much mass we need, We will explore this topic later in the article. 
 
@@ -47,11 +47,11 @@ But we can do a lot of things to influence how much mass we need, We will explor
 
 To better illustrate what is going on, I will switch old representation out, instead of showing fission like this:
 
-<p align="center"><img src="1_uranium_fission2.webp" alt="" data-echo="1_uranium_fission2.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="1_uranium_fission2.webp"></p>
 
 I will again show the neutron as black, but now the enriched uranium nucleon is just dark blue. Upon induced fission, I will change the color to light blue.  
 
-<p align="center"><img src="2_show_new_syntax.webp" alt="" data-echo="2_show_new_syntax.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="2_show_new_syntax.webp"></p>
 
 Of course my animation should show 2 new daughter nucleons fission product flying away after releasing 3 neutrons, but it is not important for the physics point I am trying to make. Just think of it as has potential to fission, or not. 
 
@@ -59,34 +59,34 @@ In the simulation, undergoing fission will release 3 neutrons in a random direct
 
 Now, with this new setup we can try an experiment. Let's surround a neutron with lots of Enriched uranium and see what happens.
 
-<p align="center"><img src="2_exponential_test_controlled_count2.webp" alt="" data-echo="2_exponential_test_controlled_count2.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="2_exponential_test_controlled_count2.webp"></p>
 
 You just saw a single neutron using induced fission to multiply into 1708 neutrons. Instead of the term "critical mass" we can use so-called Multiplication Factor, to tells us about the criticality state of the system. Denoted as k.
 It is defined as:
 
-<p align="center"><img src="/img/loading.gif" alt="" data-echo="k1.png"></p>
+<p align="center"><img src="/img/loading.gifoading.gif" alt="" data-echo="k1.png"></p>
 
 If k = 1, it means for neutron produced will only produce one new neutron on average. This is the ideal scenario for a nuclear power plant. We have constant power. We call this critical.
 
 
 
-<p align="center"><img src="test.webp" alt="" data-echo="test.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="test.webp"></p>
 
 
 If k under 1, it means each neutron produced does not produce a new one on average, and the reaction is dying out. Subcritical
 
-<p align="center"><img src="test2.webp" alt="" data-echo="test2.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="test2.webp"></p>
 
 if k is over 1 it means each neutron produced generates even more. This is called supercritical, and we want to maximize that number in an atomic bomb. We saw k over 1 in this example before (where a single neutron multiplied into 1708 neutrons): 
 
-<p align="center"><img src="2_exponential_test_controlled_count2.webp" alt="" data-echo="2_exponential_test_controlled_count2.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="2_exponential_test_controlled_count2.webp"></p>
 
 To summarize, this is the different scenarios of fission, depending on the k value:
-<p align="center"><img src="/img/loading.gif" alt="" data-echo="k2.png"></p>
+<p align="center"><img src="/img/loading.gifoading.gif" alt="" data-echo="k2.png"></p>
 
 I can count the number of neutrons from the example we just saw(where a single neutron multiplied into 1708 neutrons), and then plot this Multiplication Factor k for chain reaction experiment we just saw.
 
-<p align="center"><img src="2_graph_k.webp" alt="" data-echo="2_graph_k.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="2_graph_k.webp"></p>
 
 You can see it is super critical in the start, the situation is never stable at k equals 1, and quickly reaches subcritical and the process stops. Let's see what influences this criticality factor, more than just the mass.
 
@@ -95,39 +95,39 @@ You can see it is super critical in the start, the situation is never stable at 
 ### Purity
 To get a critical assembly, one obvious thing we can change is the purity. So far in the simulation, we have assumed 100% pure uranium 235. This would be weapons-grade uranium. 
 
-<p align="center"><img src="purityW.webp" alt="" data-echo="purityW.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="purityW.webp"></p>
 
 But when you extract uranium, only 1about 1% will be the isotope U235 and the rest is a non-fissile uranium isotope.
 
-<p align="center"><img src="purityN.webp" alt="" data-echo="purityN.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="purityN.webp"></p>
 
 You must refine and enrich the material with expensive centrifuges before you can feasibly use it in a fission process.
 
 The presence of impurities, such as non-fissile isotopes, can absorb neutrons or simply decrease the chance of a neutron hitting a fissile nucleus. Both examples will hinder the chain reaction. Here you can see a failed attempt of a chain reaction, duo to low purity:
 
-<p align="center"><img src="3_control_rods_stabile_test_too_low_purity.webp" alt="" data-echo="3_control_rods_stabile_test_too_low_purity.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="3_control_rods_stabile_test_too_low_purity.webp"></p>
 
 Historical remark: early discussion about a nuclear bomb was deemed unfeasible, as you would need 44 tons of natural uranium to sustain a critical chain reaction. It was first later when the highly fissile Uranium 235 was used in calculations that got scientist extremely worried about the possibilities of a new super weapon.  
 
 Anyway, for a power plant, low enriched uranium is used, and only about 5% enrichment is needed for a power plant. 
 
-<p align="center"><img src="purityL.webp" alt="" data-echo="purityL.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="purityL.webp"></p>
 
 The aim is of course to keep the criticality stable at around k = 1. Let's try that in the simulation. 
 
 First I'll introduce two new features in the simulation, just for the purpose of simulating a nuclear power plant. First we have control rods, depicted as black rectangles.
 
-<p align="center"><img src="3_control_rods_introRods.webp" alt="" data-echo="3_control_rods_introRods.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="3_control_rods_introRods.webp"></p>
 
 
 Control rods are made of elements with high neutron capture property, that does not decay themselves. Boron is a has this property. These rods can quickly stop an out of control process:
 
 
-<p align="center"><img src="3_control_rods_stabile_put_out.webp" alt="" data-echo="3_control_rods_stabile_put_out.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="3_control_rods_stabile_put_out.webp"></p>
 
 Secondly, lets introduced the feature to magically enrich used-up uranium. 
 
-<p align="center"><img src="3_control_rods_intro_enrich.webp" alt="" data-echo="3_control_rods_intro_enrich.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="3_control_rods_intro_enrich.webp"></p>
 
 Let's use these concept to run a nuclear reactor and keep it enriched to around 5% purity. I'll also use control rods to limit the amount of neutrons to 40. This file is a bit big, so I have to link you to a YouTube video(click the link on the image):
 
@@ -140,7 +140,7 @@ It is actually very hard to keep the neutron-density approximately constant. Bec
 
 Another thing we can do to influence the criticality, is the shape of the fissile mass we have. Depending on the geometry, the criticality is highly effected. For example, a thin cylinder or in 2d a simple line is a terrible configuration for a chain reaction. The high surface area and low volume causes too many neutrons escapes the material. 
 
-<p align="center"><img src="3_shape_thin_rod.webp" alt="" data-echo="3_shape_thin_rod.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="3_shape_thin_rod.webp"></p>
 
 Power plants fuel rods are shaped as a long thin cylinder, but the high surface area and low volume is used for easily getting water in and distribute the heat to the turbine, than for maintaining criticality k=1. 
 
@@ -148,56 +148,56 @@ But atomic devices use normally uses a sphere. A sphere is the optimal way to pa
 
 Shape is what the atomic devices "little boy" used as the trigger mechanism. Before firing the shape engineered set such that, the two clumps are sub critical, and every loose neutron in the material would quickly decay not causing a premature detonation. But after triggering firing two clumps of uranium together, the systems shape will be in a supercritical state, and loose neutron will set off an atomic blast. 
 
-<p align="center"><img src="3_shape_little_boy.webp" alt="" data-echo="3_shape_little_boy.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="3_shape_little_boy.webp"></p>
 
 
 ### Density 
 
 I can arrange these nuclei more neatly packed, such as in the hexagonal structure. It is the optimal way to pack circles as tightly as possible. Of course this is just me playing around showing you the affect of density pretending Uranium nuclei are circles. This has nothing to do with real uranium as they would form in some metallic lattice structure. Anyway let's try the simulation again with the hexagonal structure.
 
-<p align="center"><img src="2_exponential_test_hexi_count.webp" alt="" data-echo="2_exponential_test_hexi_count.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="2_exponential_test_hexi_count.webp"></p>
 
 If I plot the k factor over time again, you can see we had a much, much more violently supercritical state. This is exactly the principle of implosion bombs such as the device used in the Trinity device shown in the Oppenheimer movie. The device has the fissile core surrounded by TNT-like explosives, to decrease the density of the fissile core. Before the explosion, the fissile core is subcritical. But after the explosion the core is imploded and the high density means stray neutrons will release a super critical chain reaction.
 
-<p align="center"><img src="3_density_implosion.webp" alt="" data-echo="3_density_implosion.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="3_density_implosion.webp"></p>
 
 This is especially a smart move in an atomic bomb, since the nuclear reaction scattering fission fragments increases the pressure destroying the core and decreasing the density.
 
 I can simulate that, if I add this scattering property. Now uranium-on-uranium collisions will transfer momentum and the same will a neutron-uranium collision. Let's run a chain reaction again with this property.
 
-<p align="center"><img src="4_scattering_property.webp" alt="" data-echo="4_scattering_property.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="4_scattering_property.webp"></p>
 
 You can see the fissile clump disintegrates.  In the animation some uranium nuclei wasn't hit by a neutron and we had wasted potential. If too much fissile material goes to waste you will have a much, much lower yield and maybe just a small meltdown instead of a nuclear explosion. This failed explosion is called a fizzle. 
 
-<p align="center"><img src="4_force_outwards_test.webp" alt="" data-echo="4_force_outwards_test.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="4_force_outwards_test.webp"></p>
 
 You can see, if I use explosions like the fat man and trinity device, I can crush the core via implosion and create a low density and an inwards force, combatting the nuclear scattering pressure. This increases the fissile yield and combats the fizzle issue.
 
-<p align="center"><img src="3_density_implosion_neutron.webp" alt="" data-echo="3_density_implosion_neutron.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="3_density_implosion_neutron.webp"></p>
 
 ### Bonus tricks effecting the criticality
 
 There are other tricks used in an atomic device to bring down the minimum required mass and enhance the criticality. The first thing is to use a neutron initiator: that is a reaction of polonium and beryllium that have the property to burst out a lot of neutrons. 
 
-<p align="center"><img src="5_1_bonus_neutron_initati.webp" alt="" data-echo="5_1_bonus_neutron_initati.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="5_1_bonus_neutron_initati.webp"></p>
 
 Secondly, we can use a strong shell around the fissile material called a tamper, this tamper tries to withhold the outgoing force, just for a tiny, tiny timescale to allow even more neutrons to fission before the material destroys itself.  I will depict the tamper as a black circle and allow a few hits before it is destroyed. 
 
-<p align="center"><img src="5_2_bonus_tamper_show.webp" alt="" data-echo="5_2_bonus_tamper_show.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="5_2_bonus_tamper_show.webp"></p>
 
 Let's try running a fission experiment again with this tamper. You will see this time we managed to fission all the fissile material.
 
-<p align="center"><img src="5_2_bonus_tamper.webp" alt="" data-echo="5_2_bonus_tamper.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="5_2_bonus_tamper.webp"></p>
 
 Finally, we can add a neutron reflector, this simply brings neutron back into play again by, by letting neutrons bounce on material such as graphite. Thereby not allowing them to escape. This will be smart to use in an atomic device, but hopefully nobody would ever put graphite on the tip of control rods.
 
 I will hit this neutron reflector depicted as yellow. It will be destroyed together with the tamper. 
 
-<p align="center"><img src="5_3_bonus_neutron_reflector.webp" alt="" data-echo="5_3_bonus_neutron_reflector.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="5_3_bonus_neutron_reflector.webp"></p>
 
 Putting all tricks we learned together, we get the gadget used in the trinity test: the first atomic bomb. Same principles still used today in modern bombs.
 
-<p align="center"><img src="5_4_all_together_bomb.webp" alt="" data-echo="5_4_all_together_bomb.webp"></p>
+<p align="center"><img src="/img/loading.gif" alt="" data-echo="5_4_all_together_bomb.webp"></p>
 
 ## Conclusion
 I tried my best to keep the simulation clear without too many distractions. But for clarity I did not talk about:
