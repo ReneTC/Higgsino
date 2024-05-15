@@ -177,7 +177,7 @@ You can see, if I use explosions like the fat man and trinity device, I can crus
 
 ### Bonus tricks effecting the criticality
 
-There are other tricks used in an atomic device to bring down the minimum required mass and enhance the criticality. The first thing is to use a neutron initiator: that is a reaction of polonium and beryllium that have the property to burst out a lot of neutrons. 
+There are other tricks used in an atomic device to bring down the minimum required mass and enhance the criticality. The first thing is to use a neutron initiator: that is a reaction of polonium and beryllium that have the property to burst out a lot of neutrons. It's difficult to see, but we start this simulation not with 1, but 20 neutrons in the center.
 
 <p align="center"><img src="/img/loading.gif" alt="" data-echo="5_1_bonus_neutron_initati.webp"></p>
 
